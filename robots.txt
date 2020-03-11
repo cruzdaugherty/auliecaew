@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ithiegheej.cps-spc.org/sitemap.xml
